@@ -6,7 +6,7 @@ Hi 👋 My name is Denzel
 * 🌍  I'm based in The Netherlands, Alkmaar
 * 🤝  I'm open to collaborating on FiveM Projects
 * 🖥️  See my portfolio at my website (Soon!)
-* 
+
 -------------
 
 ### Skills
