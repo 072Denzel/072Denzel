@@ -5,11 +5,8 @@ Hi 👋 My name is Denzel
 
 * 🌍  I'm based in The Netherlands, Alkmaar
 * 🤝  I'm open to collaborating on FiveM Projects
-* 🖥️  See my portfolio at my website! (soon)
-* ✉️  You can contact me at discord [072_denzel]
-* 🧠  I'm learning Laravel/ReactJS
-* 🤝  I'm open to collaborating on FiveM Projects
-
+* 🖥️  See my portfolio at my website (Soon!)
+* 
 -------------
 
 ### Skills
@@ -31,6 +28,12 @@ Hi 👋 My name is Denzel
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="36" height="36" alt="Bootstrap" />
 </a>
 </p>
+
+-------------
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/mrdeurmat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dribbble.com/MrDeurmat_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/KianVR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 -------------
 
