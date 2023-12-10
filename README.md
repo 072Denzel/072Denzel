@@ -6,7 +6,7 @@ Hi 👋 My name is Denzel
 * 🌍  I'm based in The Netherlands, Alkmaar
 * 🤝  I'm open to collaborating on FiveM Projects
 * 🖥️  See my portfolio at my website! (soon)
-* ✉️  You can contact me at [mail@kianvr.me](mailto:mail@kianvr.me)
+* ✉️  You can contact me at discord [072_denzel]
 * 🧠  I'm learning Laravel/ReactJS
 * 🤝  I'm open to collaborating on FiveM Projects
 
