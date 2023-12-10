@@ -26,9 +26,6 @@ Hi 👋 My name is Denzel
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="36" height="36" alt="Laravel" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303230/css-3-logo.svg" width="36" height="36" alt="CSS" />
-</a>
 </p>
 
 -------------
