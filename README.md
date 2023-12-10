@@ -6,8 +6,8 @@ Hi 👋 My name is Denzel
 * 🌍  I'm based in The Netherlands, Alkmaar
 * 🤝  I'm open to collaborating on FiveM Projects
 
-<a href="[https://github.com/072Denzel]" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KianVR?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+-------------
+
 ### Skills
 
 <p align="left">
